@@ -1,0 +1,22 @@
+# Maven
+target/
+*.log
+
+# STS / Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Environment / secrets
+src/main/resources/application.properties
+.env
